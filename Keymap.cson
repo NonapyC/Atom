@@ -1,0 +1,9 @@
+'atom-workspace atom-text-editor':
+    'ctrl-e': 'editor:move-to-end-of-screen-line'
+    'ctrl-a': 'editor:move-to-first-character-of-line'
+    'ctrl-q': 'core:select-all'
+    'ctrl-f': 'core:move-right'
+    'ctrl-d': 'core:move-left'
+    'ctrl-n': 'core:move-down'
+    'ctrl-p': 'core:move-up'
+    'alt-f':'find-and-replace:show'
